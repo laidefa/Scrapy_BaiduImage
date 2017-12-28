@@ -1,6 +1,3 @@
-# Scrapy_BaiduImage
-scrapy百度图片爬虫
-
 
 ### 爬虫目标:
 抓取百度图片，在百度图片栏目输入:关键字 ，抓取对应的图片下来。
@@ -21,7 +18,8 @@ Scrapy 爬虫框架
 ### 联系我
 
 微信：laidefa
-CSDN博客:http://blog.csdn.net/u013421629?viewmode=contents
+CSDN博客:
+http://blog.csdn.net/u013421629?viewmode=contents
 
 
 
